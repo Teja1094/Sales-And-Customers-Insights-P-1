@@ -62,4 +62,6 @@ Shows shipping modes, delivery trends, and cost efficiency.
 •	High return rates in specific products negatively impact profitability 
 •	Shipping modes vary in cost-efficiency, indicating opportunities for optimization 
 •	Seasonal trends influence sales performance significantly 
+<img width="775" height="484" alt="Screenshot 2026-04-16 123322" src="https://github.com/user-attachments/assets/d1508b95-d2e8-4cd7-9e31-5039fbd93434" />
+
 
